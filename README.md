@@ -4,7 +4,7 @@ Este es un clon del popular juego 2048 implementado en Python utilizando la bibl
 
 ## Capturas de Pantalla
 
-_(Incluir una captura de pantalla del juego aquí)_
+![game](/images/image.png)
 
 ## Requisitos
 
