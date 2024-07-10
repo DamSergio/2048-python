@@ -32,3 +32,10 @@ Ejecuta el script principal para iniciar el juego:
 ```sh
 python game.py
 ```
+
+## Controles
+
+- Flecha Izquierda: Mover las tiles a la izquierda
+- Flecha Derecha: Mover las tiles a la derecha
+- Flecha Arriba: Mover las tiles hacia arriba
+- Flecha Abajo: Mover las tiles
