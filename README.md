@@ -30,5 +30,5 @@ Este es un clon del popular juego 2048 implementado en Python utilizando la bibl
 Ejecuta el script principal para iniciar el juego:
 
 ```sh
-python main.py
+python game.py
 ```
