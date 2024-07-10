@@ -38,4 +38,4 @@ python game.py
 - Flecha Izquierda: Mover las tiles a la izquierda
 - Flecha Derecha: Mover las tiles a la derecha
 - Flecha Arriba: Mover las tiles hacia arriba
-- Flecha Abajo: Mover las tiles
+- Flecha Abajo: Mover las tiles hacia abajo
